@@ -79,7 +79,8 @@ def build_index():
     metadata = []
 
     for f in files:
-        print(f"Reading {f.name}...")
+        size_mb = f.stat().st_size / (1024 * 1024)
+        print(f"Reading {f.name}... (size: {size_mb:.2f} MB)")
         text = read_file_text(f)
         if not text:
             print(f" No text extracted from {f.name}, skipping.")
