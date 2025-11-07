@@ -46,14 +46,23 @@ def chunk_text(text: str, max_chars: int = 400, overlap: int = 100):
     chunks = []
     start = 0
     n = len(text)
+
     while start < n:
         end = min(n, start + max_chars)
         chunk = text[start:end]
         chunks.append(chunk.strip())
+
+        # If we've reached the end of the text, stop to avoid infinite loop
+        if end >= n:
+            break
+
+        # Compute next start with overlap
         start = end - overlap
         if start < 0:
             start = 0
+
     return [c for c in chunks if c]
+
 
 
 # --- STEP 4: Embed text chunks (batched) ---
