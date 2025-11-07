@@ -70,7 +70,12 @@ def embed_texts(texts, model: str = "text-embedding-3-small", batch_size: int = 
 
 # --- STEP 5: Build FAISS index ---
 def build_index():
+    print("DOCS_DIR is:", DOCS_DIR)
+    print("Files I see in DOCS_DIR:")
+    for p in DOCS_DIR.glob("*"):
+        print(" ", p.name)
     files = list_input_files()
+    print("Input files:", [f.name for f in files])
     if not files:
         print("No .txt or .pdf files found in docs/ — add some first.")
         return
@@ -82,12 +87,15 @@ def build_index():
         size_mb = f.stat().st_size / (1024 * 1024)
         print(f"Reading {f.name}... (size: {size_mb:.2f} MB)")
         text = read_file_text(f)
+        print(f"  Text length: {len(text)} chars")
         if not text:
             print(f" No text extracted from {f.name}, skipping.")
             continue
 
+        print("  Chunking...")
         chunks = chunk_text(text, max_chars=400, overlap=100)
         print(f"  → {len(chunks)} chunks")
+
         for c in chunks:
             all_chunks.append(c)
             metadata.append({"source": f.name, "text": c})
