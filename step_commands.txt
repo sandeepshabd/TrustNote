@@ -1,0 +1,4 @@
+export OPENAI_API_KEY= key in bash profile
+python -m backend.rag.ingest
+
+
