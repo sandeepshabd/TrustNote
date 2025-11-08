@@ -25,7 +25,7 @@ TrustNote/
 
 Setup Instructions
 
-git clone https://github.com/yourusername/TrustNote.git
+git clone https://github.com/sandeepshabd/TrustNote.git
 cd TrustNote
 pip install -r requirements.txt
 export OPENAI_API_KEY=your_openai_api_key_here
