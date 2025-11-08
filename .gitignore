@@ -1,1 +1,6 @@
 .venv
+backend/rag/__pycache__/
+backend/__pycache__/main.cpython-312.pyc
+backend/rag/__pycache__/engine.cpython-312.pyc
+backend/rag/__pycache__/ingest.cpython-312.pyc
+backend/rag/__pycache__/ingest.cpython-312.pyc
