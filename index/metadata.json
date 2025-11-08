@@ -1,0 +1,474 @@
+[
+  {
+    "source": "data.txt",
+    "text": "Q2 Business Performance Report\n\nRevenue increased by 15% compared to the previous quarter, driven mainly by strong sales in the North American market.\nThe European division faced supply chain delays but expects recovery in Q3.\n\nKey Risks:\n1. Rising transportation costs.\n2. Potential delay in raw material imports.\n3. Customer churn in the enterprise segment."
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "AMAZON.COM ANNOUNCES THIRD QUARTER RESULTS\nSEATTLE—(BUSINESS WIRE) October 30, 2025—Amazon.com, Inc. (NASDAQ: AMZN) today announced financial \nresults for its third quarter ended September 30, 2025. \n• Net sales increased 13% to $180.2 billion in the third quarter, compared with $158.9 billion in third quarter 2024.\nExcluding the $1.5 billion favorable impact from year-over-year changes in foreign"
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "ird quarter 2024.\nExcluding the $1.5 billion favorable impact from year-over-year changes in foreign exchange rates throughout the\nquarter, net sales increased 12% compared with third quarter 2024.\n• North America segment sales increased 11% year-over-year to $106.3 billion.\n• International segment sales increased 14% year-over-year to $40.9 billion, or increased 10% excluding\nchanges in foreign e"
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "sales increased 14% year-over-year to $40.9 billion, or increased 10% excluding\nchanges in foreign exchange rates.\n• AWS segment sales increased 20% year-over-year to $33.0 billion.\n• Operating income was $17.4 billion in the third quarter, compared with $17.4 billion in third quarter 2024. Third\nquarter 2025 operating income includes two special charges—$2.5 billion related to a legal settlement"
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "arter 2025 operating income includes two special charges—$2.5 billion related to a legal settlement with the Federal\nTrade Commission and $1.8 billion in estimated severance costs primarily related to planned role eliminations.\nWithout these charges, operating income would have been $21.7 billion.\n• North America segment operating income was $4.8 billion, compared with $5.7 billion in third quarte"
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "North America segment operating income was $4.8 billion, compared with $5.7 billion in third quarter 2024.\nExcluding the $2.5 billion charge related to a legal settlement with the Federal Trade Commission, North\nAmerica operating income would have been $7.3 billion. These results also include estimated severance costs\nprimarily related to planned role eliminations.\n• International segment operati"
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "ated severance costs\nprimarily related to planned role eliminations.\n• International segment operating income was $1.2 billion, compared with $1.3 billion in third quarter 2024.\nThese results also include estimated severance costs primarily related to planned role eliminations.\n• AWS segment operating income was $11.4 billion, compared with $10.4 billion in third quarter 2024. These\nresults also i"
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "ng income was $11.4 billion, compared with $10.4 billion in third quarter 2024. These\nresults also include estimated severance costs primarily related to planned role eliminations.\n• Net income increased to $21.2 billion in the third quarter, or $1.95 per diluted share, compared with $15.3 billion, or\n$1.43 per diluted share, in third quarter 2024.\n• Third quarter 2025 net income includes pre-tax"
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "or\n$1.43 per diluted share, in third quarter 2024.\n• Third quarter 2025 net income includes pre-tax gains of $9.5 billion included in non-operating income\n(expense) from our investments in Anthropic, PBC.\n• Operating cash flow increased 16% to $130.7 billion for the trailing twelve months, compared with $112.7 billion for\nthe trailing twelve months ended September 30, 2024.\n• Free cash flow decrea"
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "with $112.7 billion for\nthe trailing twelve months ended September 30, 2024.\n• Free cash flow decreased to $14.8 billion for the trailing twelve months, driven primarily by a year-over-year increase\nof $50.9 billion in purchases of property and equipment, net of proceeds from sales and incentives. This compares to\nfree cash flow of $47.7 billion for the trailing twelve months ended September 30, 2"
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "his compares to\nfree cash flow of $47.7 billion for the trailing twelve months ended September 30, 2024.\n“We continue to see strong momentum and growth across Amazon as AI drives meaningful improvements in every corner of \nour business,” said Andy Jassy, President and CEO, Amazon. “AWS is growing at a pace we haven’t seen since 2022, re-\naccelerating to 20.2% YoY. We continue to see strong demand"
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "a pace we haven’t seen since 2022, re-\naccelerating to 20.2% YoY. We continue to see strong demand in AI and core infrastructure, and we’ve been focused on \naccelerating capacity – adding more than 3.8 gigawatts in the past 12 months. In Stores, we continue to realize the benefits of \ninnovating in our fulfillment network, and we’re on track to deliver to Prime members at the fastest speeds ever"
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "our fulfillment network, and we’re on track to deliver to Prime members at the fastest speeds ever again this year, \nexpand same-day delivery of perishable groceries to over 2,300 communities by end of year, and double the number of rural \ncommunities with access to Amazon’s Same-Day and Next-Day Delivery.”Some other highlights since the company’s last earnings announcement include that Amazon:\n•"
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "elivery.”Some other highlights since the company’s last earnings announcement include that Amazon:\n• Saw continued strong adoption of Trainium2, its custom AI chip, which is fully subscribed and a multi-billion-dollar \nbusiness that grew 150% quarter over quarter. \n• Launched Project Rainier, a massive AI compute cluster containing nearly 500,000 Trainium2 chips, to build and \ndeploy Anthropic’s l"
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "ive AI compute cluster containing nearly 500,000 Trainium2 chips, to build and \ndeploy Anthropic’s leading Claude AI models. \n• Announced new Amazon EC2 P6e-GB200 UltraServers using NVIDIA Grace Blackwell Superchips, designed for \ntraining and deploying the largest, most sophisticated AI models.\n• Added 3.8 gigawatts of power capacity in the past 12 months – more than any other cloud provider.\n• A"
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "dded 3.8 gigawatts of power capacity in the past 12 months – more than any other cloud provider.\n• Added new foundation models in Amazon Bedrock, including open weight models from OpenAI, DeepSeek-V3.1, and \nQwen3, as well as Anthropic’s Claude Sonnet 4.5, Claude Opus 4.1, and Claude Haiku 4.5.\n• Announced a number of new Amazon EC2 instances for general purpose computing, including AWS Graviton4"
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "nounced a number of new Amazon EC2 instances for general purpose computing, including AWS Graviton4 chips \nfor fast networking and custom Intel Xeon 6 processors for heavy computing tasks–both only available on AWS, as \nwell as AMD EPYC processors for a wide range of applications, and Apple M4 chips for building iPhone and Mac \napps.\n• Expanded access to Kiro, an agentic coding integrated developm"
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "for building iPhone and Mac \napps.\n• Expanded access to Kiro, an agentic coding integrated development environment that brings clarity through spec-\ndriven development, with more than 100,000+ developers jumping in during the first days of preview and more than \ndoubling since.\n• Launched Quick Suite agentic AI app that acts as an AI teammate – connecting to business data and apps, and letting \ne"
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "te agentic AI app that acts as an AI teammate – connecting to business data and apps, and letting \nemployees interact with AI agents that can find insights, conduct research, and take actions across systems. Quick \nSuite helps turn month-long projects into days, get 80%+ time savings on complex tasks, and realize 90%+ cost \nsavings.\n• Saw strong adoption of Transform, an AI agent that makes it eas"
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "s, and realize 90%+ cost \nsavings.\n• Saw strong adoption of Transform, an AI agent that makes it easy for customers to migrate to AWS. Transform has \nsaved 700,000 hours of manual migration effort—equivalent of 335 developer years of work—year to date.\n• Grew Connect—an AI solution that enables contact centers to provide consistent, personalized customer experiences\n—to a $1 billion annualized rev"
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "act centers to provide consistent, personalized customer experiences\n—to a $1 billion annualized revenue run rate business in recent weeks, with 12 billion minutes of customer interactions \nbeing handled by AI in the last year.\n• Announced general availability of AgentCore, a set of infrastructure building blocks for developers and companies to \nbuild secure, scalable agents.\n• Released Nova Multi"
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "uilding blocks for developers and companies to \nbuild secure, scalable agents.\n• Released Nova Multimodal Embeddings, the first unified model that enables search results with leading accuracy \nacross text, documents, images, video, and audio. In addition, Web Grounding is a new built-in tool for Nova models \nto retrieve and incorporate publicly available information in responses.\n• Announced gener"
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "a models \nto retrieve and incorporate publicly available information in responses.\n• Announced general availability of Elastic VMware Service, the fastest and easiest path for customers to run VMware \nworkloads on AWS.\n• Added AWS Region in New Zealand, with plans for 10 more Availability Zones and three more Regions.\n• Signed new AWS agreements with Delta Air Lines, Volkswagen Group, Fox Corporat"
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "three more Regions.\n• Signed new AWS agreements with Delta Air Lines, Volkswagen Group, Fox Corporation, ServiceNow, Qantas \nAirways Limited, U.S. General Services Administration, SAP, lululemon athletica inc., Live Nation, AXA, BT Group, \nVonage, Upstage, Arm, Fundamental, Periodic Labs, Cursor, Perplexity, and Lila Sciences.\n• Increased number of rural communities with access to Amazon’s Same-Da"
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "rplexity, and Lila Sciences.\n• Increased number of rural communities with access to Amazon’s Same-Day and Next-Day Delivery by 60% in past \nfour months.\n• Expanded Same-Day Delivery of perishable groceries to 1,000+ cities and towns in the U.S., with plans to reach \n2,300+ locations by end of 2025.\n• Saw strong usage of Rufus (AI-powered assistant in Amazon’s store), with 250 million customers usi"
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "• Saw strong usage of Rufus (AI-powered assistant in Amazon’s store), with 250 million customers using it this year. \nShoppers using Rufus are 60% more likely to complete a purchase.\n• Launched Help Me Decide, an AI feature to help customers zero in on the right product using browsing activity, \nsearches, shopping history, and preferences.\n• Empowered sellers with genAI tools, with over 1.3 millio"
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "rches, shopping history, and preferences.\n• Empowered sellers with genAI tools, with over 1.3 million independent sellers using these tools to easily create high \nquality, engaging product listings and bring even more selection to customers.\n• Expanded Multi-Channel Fulfillment to sellers using Walmart, Shopify, and SHEIN, so brands can reach customers \nwherever they shop while leveraging Amazon’s"
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "art, Shopify, and SHEIN, so brands can reach customers \nwherever they shop while leveraging Amazon’s fast, reliable fulfillment network.• Announced partnerships that allow advertisers to buy ad space on Netflix, Spotify, and SiriusXM Media through \nAmazon Ads.\n• Drew 70 million+ viewers globally for The Summer I Turned Pretty Season 3 (through 7 days post finale), delivered \nglobal viewership grow"
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "The Summer I Turned Pretty Season 3 (through 7 days post finale), delivered \nglobal viewership growth for second consecutive season (exceeding Season 2 by 65%), and announced feature film.\n• Kicked off fourth season of Thursday Night Football on Prime Video, averaging 15.3 million viewers (the best for \nTNF on any network in a decade) according to Nielsen, which is a 16% increase over last season"
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "for \nTNF on any network in a decade) according to Nielsen, which is a 16% increase over last season’s seven-game \naverage.\n• Debuted NBA on Prime in more than 200 countries, delivering average audience of 1.25 million viewers in the U.S. \nduring season-opening double header, according to Nielsen.\n• Added Peacock Premium Plus and Fox One to Prime Video add-on subscription offering of 100+ channels"
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "Added Peacock Premium Plus and Fox One to Prime Video add-on subscription offering of 100+ channels in the U.S.\n• Launched the reimagined Luna cloud gaming service, including GameNight, a new collection of living room games, at \nno additional cost to Prime members.\n• Continued rolling out Alexa+, which customers engage with two times more than the original Alexa, have longer \nconversations, cover"
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "hich customers engage with two times more than the original Alexa, have longer \nconversations, cover a broader range of topics, and complete more tasks. Customers are using Alexa+ on Fire TV 2.5 \ntimes more than the original, using natural conversation to discover audio content 4 times more, engaging with photos \n4 times more, and completing 4 times more shopping conversations that end in a purcha"
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "g with photos \n4 times more, and completing 4 times more shopping conversations that end in a purchase.\n• Launched four AI-powered Echo devices built for Alexa+, expanded Alexa+ to new Fire TV device lineup for fast \ncontent discovery, and launched Alexa+ features for Ring devices that act as an intelligent doorbell attendant.\n• Expanded Project Kuiper fleet to 150+ satellites, demonstrated indust"
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "elligent doorbell attendant.\n• Expanded Project Kuiper fleet to 150+ satellites, demonstrated industry-leading downlink speeds of 1+ Gbps, and \nannounced commercial agreements with JetBlue, Australia’s National Broadband Network, and Kazakhtelecom \n(leading telecommunications provider in Kazakhstan).\n• Began offering Zoox’s robotaxi service to customers in Las Vegas—becoming first fully autonomous"
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": ".\n• Began offering Zoox’s robotaxi service to customers in Las Vegas—becoming first fully autonomous ride-hailing \nservice in a purpose-built robotaxi—and announced Washington D.C. as eighth testing location.\n• Announced $1 billion investment in U.S. employee pay and benefits, bringing average hourly wage to $30+ per hour \nincluding elected benefits. Amazon also increased wages for hourly fulfillm"
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "y wage to $30+ per hour \nincluding elected benefits. Amazon also increased wages for hourly fulfillment and transportation employees in \nCanada, the Czech Republic, Poland, and the UK.\n• Announced Future Ready 2030, a $2.5 billion commitment to expand access to education and skills training for at least \n50 million people, empowering both employees and the broader workforce.\n• Announced plans to a"
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "east \n50 million people, empowering both employees and the broader workforce.\n• Announced plans to add hundreds of thousands of seasonal jobs this holiday season, including 250,000 in the U.S., \n150,000 in India, and thousands across Australia, Canada, France, Spain, and Central Europe.\n• Announced planned $1.9 billion investment in Delivery Service Partner program in North America, adding to tota"
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "planned $1.9 billion investment in Delivery Service Partner program in North America, adding to total \ninvestment of $16.7 billion over last seven years, supporting safety programs, training, and new technology.  \nFinancial Guidance\nThe following forward-looking statements reflect Amazon.com’s expectations as of October 30, 2025, and are subject to \nsubstantial uncertainty. Our results are inheren"
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "tations as of October 30, 2025, and are subject to \nsubstantial uncertainty. Our results are inherently unpredictable and may be materially affected by many factors, such as \nfluctuations in foreign exchange rates, changes in global economic and geopolitical conditions, tariff and trade policies, and \ncustomer demand and spending (including the impact of recessionary fears), inflation, interest ra"
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "d \ncustomer demand and spending (including the impact of recessionary fears), inflation, interest rates, regional labor market \nconstraints, world events, the rate of growth of the internet, online commerce, cloud services, and new and emerging \ntechnologies, and the various factors detailed below. \nFourth Quarter 2025 Guidance\n• Net sales are expected to be between $206.0 billion and $213.0 billi"
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "Fourth Quarter 2025 Guidance\n• Net sales are expected to be between $206.0 billion and $213.0 billion, or to grow between 10% and 13% compared \nwith fourth quarter 2024. This guidance anticipates a favorable impact of approximately 190 basis points from foreign \nexchange rates.  \n• Operating income is expected to be between $21.0 billion and $26.0 billion, compared with $21.2 billion in fourth \nq"
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "is expected to be between $21.0 billion and $26.0 billion, compared with $21.2 billion in fourth \nquarter 2024.  \n• This guidance assumes, among other things, that no additional business acquisitions, restructurings, or legal \nsettlements are concluded.Conference Call Information\nA conference call will be webcast live today at 2:00 p.m. PT/5:00 p.m. ET, and will be available for at least three mo"
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "will be webcast live today at 2:00 p.m. PT/5:00 p.m. ET, and will be available for at least three months at \namazon.com/ir. This call will contain forward-looking statements and other material information regarding the Company’s \nfinancial and operating results.\nForward-Looking Statements\nThese forward-looking statements are inherently difficult to predict. Actual results and outcomes could differ"
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "ard-looking statements are inherently difficult to predict. Actual results and outcomes could differ materially for a \nvariety of reasons, including, in addition to the factors discussed above, the amount that Amazon.com invests in new business \nopportunities and the timing of those investments, the mix of products and services sold to customers, the mix of net sales \nderived from products as comp"
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "mix of products and services sold to customers, the mix of net sales \nderived from products as compared with services, the extent to which we owe income or other taxes, competition, management \nof growth, potential fluctuations in operating results, international growth and expansion, the outcomes of claims, litigation, \ngovernment investigations, and other proceedings, fulfillment, sortation, de"
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "of claims, litigation, \ngovernment investigations, and other proceedings, fulfillment, sortation, delivery, and data center optimization, risks of \ninventory management, variability in demand, the degree to which the Company enters into, maintains, and develops \ncommercial agreements, proposed and completed acquisitions and strategic transactions, payments risks, and risks of \nfulfillment throughp"
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "ompleted acquisitions and strategic transactions, payments risks, and risks of \nfulfillment throughput and productivity. Other risks and uncertainties include, among others, risks related to new products, \nservices, and technologies, security incidents, system interruptions, government regulation and taxation, and fraud. In addition, \nglobal economic and geopolitical conditions and additional or u"
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "d taxation, and fraud. In addition, \nglobal economic and geopolitical conditions and additional or unforeseen circumstances, developments, or events may give \nrise to or amplify many of these risks. More information about factors that potentially could affect Amazon.com’s financial \nresults is included in Amazon.com’s filings with the Securities and Exchange Commission (“SEC”), including its most"
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "ded in Amazon.com’s filings with the Securities and Exchange Commission (“SEC”), including its most recent \nAnnual Report on Form 10-K and subsequent filings.\nAdditional Information\nOur investor relations website is amazon.com/ir and we encourage investors to use it as a way of easily finding information \nabout us. We promptly make available on this website, free of charge, the reports that we fil"
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "ation \nabout us. We promptly make available on this website, free of charge, the reports that we file or furnish with the SEC, corporate \ngovernance information (including our Code of Business Conduct and Ethics), and select press releases, which may contain \nmaterial information about us, and you may subscribe to be notified of new information posted to this site.\nAbout Amazon\nAmazon is guided by"
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "ay subscribe to be notified of new information posted to this site.\nAbout Amazon\nAmazon is guided by four principles: customer obsession rather than competitor focus, passion for invention, commitment to \noperational excellence, and long-term thinking. Amazon strives to be Earth’s Most Customer-Centric Company, Earth’s Best \nEmployer, and Earth’s Safest Place to Work. Customer reviews, 1-Click sho"
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "ric Company, Earth’s Best \nEmployer, and Earth’s Safest Place to Work. Customer reviews, 1-Click shopping, personalized recommendations, Prime, \nFulfillment by Amazon, AWS, Kindle Direct Publishing, Kindle, Career Choice, Fire tablets, Fire TV, Amazon Echo, Alexa, \nJust Walk Out technology, Amazon Studios, and The Climate Pledge are some of the things pioneered by Amazon. For more \ninformation, vi"
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "tudios, and The Climate Pledge are some of the things pioneered by Amazon. For more \ninformation, visit amazon.com/about and follow @AmazonNews.AMAZON.COM, INC.\nConsolidated Statements of Cash Flows\n(in millions)\n(unaudited) \n  \nThree Months Ended\nSeptember 30,\nNine Months Ended\nSeptember 30,\nTwelve Months Ended\nSeptember 30,\n 2024 2025 2024 2025 2024 2025\nCASH, CASH EQUIVALENTS, AND RESTRICTED CA"
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "Months Ended\nSeptember 30,\n 2024 2025 2024 2025 2024 2025\nCASH, CASH EQUIVALENTS, AND RESTRICTED CASH, BEGINNING OF \nPERIOD $ 71,673 $ 61,453 $ 73,890 $ 82,312 $ 50,081 $ 78,677 \nOPERATING ACTIVITIES:\nNet income  15,328  21,187  39,244  56,478  49,868  76,482 \nAdjustments to reconcile net income to net cash from operating activities:\nDepreciation and amortization of property and equipment and cap"
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "net cash from operating activities:\nDepreciation and amortization of property and equipment and capitalized \ncontent costs, operating lease assets, and other  13,442  16,796  37,164  46,285  50,984  61,916 \nStock-based compensation  5,333  4,847  17,016  15,070  23,335  20,065 \nNon-operating expense (income), net  (141)  (10,112)  2,498  (14,187)  2,159  (14,673) \nDeferred income taxes  (1,317)"
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "e (income), net  (141)  (10,112)  2,498  (14,187)  2,159  (14,673) \nDeferred income taxes  (1,317)  10,130  (3,040)  10,648  (4,504)  9,040 \nChanges in operating assets and liabilities:\nInventories  (1,509)  (827)  (2,818)  (6,103)  (175)  (5,169) \nAccounts receivable, net and other  (701)  (1,977)  774  (1,855)  (6,673)  (5,878) \nOther assets  (4,537)  (4,039)  (10,293)  (10,412)  (13,095)  (14,6"
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "774  (1,855)  (6,673)  (5,878) \nOther assets  (4,537)  (4,039)  (10,293)  (10,412)  (13,095)  (14,602) \nAccounts payable  (477)  2,151  (5,754)  166  5,134  8,892 \nAccrued expenses and other  129  (1,999)  (6,946)  (11,012)  (352)  (6,970) \nUnearned revenue  421  (632)  2,396  (23)  6,025  1,588 \nNet cash provided by (used in) operating activities  25,971  35,525  70,241  85,055  112,706  130,691"
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "et cash provided by (used in) operating activities  25,971  35,525  70,241  85,055  112,706  130,691 \nINVESTING ACTIVITIES:\nPurchases of property and equipment  (22,620)  (35,095)  (55,165)  (92,297)  (69,753)  (120,131) \nProceeds from property and equipment sales and incentives  1,342  867  3,559  2,446  4,794  4,228 \nAcquisitions, net of cash acquired, non-marketable investments, and other, net"
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "2,446  4,794  4,228 \nAcquisitions, net of cash acquired, non-marketable investments, and other, net  (622)  (786)  (4,547)  (2,438)  (4,928)  (4,973) \nSales and maturities of marketable securities  8,069  16,367  12,726  35,545  14,294  39,222 \nPurchases of marketable securities  (3,068)  (7,426)  (13,472)  (38,556)  (13,907)  (51,089) \nNet cash provided by (used in) investing activities  (16,899)"
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "13,472)  (38,556)  (13,907)  (51,089) \nNet cash provided by (used in) investing activities  (16,899)  (26,073)  (56,899)  (95,300)  (69,500)  (132,743) \nFINANCING ACTIVITIES:\nProceeds from short-term debt, and other  1,725  3,223  2,588  7,131  3,322  9,685 \nRepayments of short-term debt, and other  (1,820)  (1,826)  (2,453)  (5,300)  (8,791)  (7,907) \nProceeds from long-term debt  —  —  —  746  —"
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "(1,820)  (1,826)  (2,453)  (5,300)  (8,791)  (7,907) \nProceeds from long-term debt  —  —  —  746  —  746 \nRepayments of long-term debt  (2,183)  (1,008)  (6,682)  (3,759)  (6,972)  (6,259) \nPrincipal repayments of finance leases  (402)  (351)  (1,710)  (1,172)  (2,489)  (1,505) \nPrincipal repayments of financing obligations  (78)  (82)  (247)  (276)  (320)  (698) \nNet cash provided by (used in) f"
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "s of financing obligations  (78)  (82)  (247)  (276)  (320)  (698) \nNet cash provided by (used in) financing activities  (2,758)  (44)  (8,504)  (2,630)  (15,250)  (5,938) \nForeign currency effect on cash, cash equivalents, and restricted cash  690  (397)  (51)  1,027  640  (223) \nNet increase (decrease) in cash, cash equivalents, and restricted cash  7,004  9,011  4,787  (11,848)  28,596  (8,213)"
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "ease) in cash, cash equivalents, and restricted cash  7,004  9,011  4,787  (11,848)  28,596  (8,213) \nCASH, CASH EQUIVALENTS, AND RESTRICTED CASH, END OF PERIOD $ 78,677 $ 70,464 $ 78,677 $ 70,464 $ 78,677 $ 70,464 \nSUPPLEMENTAL CASH FLOW INFORMATION:\nCash paid for interest on debt, net of capitalized interest $ 266 $ 249 $ 1,215 $ 1,008 $ 2,002 $ 1,651 \nCash paid for operating leases  2,940  4,15"
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "ed interest $ 266 $ 249 $ 1,215 $ 1,008 $ 2,002 $ 1,651 \nCash paid for operating leases  2,940  4,155  9,116  11,475  11,882  14,700 \nCash paid for interest on finance leases  71  76  217  219  291  289 \nCash paid for interest on financing obligations  47  52  161  159  207  217 \nCash paid for income taxes, net of refunds  2,004  1,136  8,162  6,774  12,359  10,920 \nAssets acquired under operating"
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "e taxes, net of refunds  2,004  1,136  8,162  6,774  12,359  10,920 \nAssets acquired under operating leases  3,571  5,057  11,235  13,999  14,212  18,188 \nProperty and equipment acquired under finance leases, net of remeasurements and \nmodifications  186  977  409  1,968  620  2,413 \nIncrease (decrease) in property and equipment acquired but not yet paid  1,622  3,341  4,793  4,849  4,769  7,095 A"
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "ase) in property and equipment acquired but not yet paid  1,622  3,341  4,793  4,849  4,769  7,095 AMAZON.COM, INC.\nConsolidated Statements of Operations\n(in millions, except per share data)\n(unaudited)\n  \nThree Months Ended\nSeptember 30,\nNine Months Ended\nSeptember 30,\n2024 2025 2024 2025\nNet product sales $ 67,601 $ 74,058 $ 190,085 $ 206,274 \nNet service sales  91,276  106,111  260,082  297,264"
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "ct sales $ 67,601 $ 74,058 $ 190,085 $ 206,274 \nNet service sales  91,276  106,111  260,082  297,264 \nTotal net sales  158,877  180,169  450,167  503,538 \nOperating expenses:\nCost of sales  80,977  88,670  227,395  246,455 \nFulfillment  24,660  27,679  70,543  78,248 \nTechnology and infrastructure  22,245  28,962  64,973  79,122 \nSales and marketing  10,609  11,686  30,783  32,865 \nGeneral and adm"
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "22,245  28,962  64,973  79,122 \nSales and marketing  10,609  11,686  30,783  32,865 \nGeneral and administrative  2,713  2,875  8,496  8,468 \nOther operating expense (income), net  262  2,875  587  3,382 \nTotal operating expenses  141,466  162,747  402,777  448,540 \nOperating income  17,411  17,422  47,390  54,998 \nInterest income  1,256  1,100  3,429  3,251 \nInterest expense  (603)  (538)  (1,836)"
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "47,390  54,998 \nInterest income  1,256  1,100  3,429  3,251 \nInterest expense  (603)  (538)  (1,836)  (1,595) \nOther income (expense), net  (27)  10,186  (2,718)  14,052 \nTotal non-operating income (expense)  626  10,748  (1,125)  15,708 \nIncome before income taxes  18,037  28,170  46,265  70,706 \nProvision for income taxes  (2,706)  (6,910)  (6,940)  (14,141) \nEquity-method investment activity, n"
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "rovision for income taxes  (2,706)  (6,910)  (6,940)  (14,141) \nEquity-method investment activity, net of tax  (3)  (73)  (81)  (87) \nNet income $ 15,328 $ 21,187 $ 39,244 $ 56,478 \nBasic earnings per share $ 1.46 $ 1.98 $ 3.76 $ 5.31 \nDiluted earnings per share $ 1.43 $ 1.95 $ 3.67 $ 5.22 \nWeighted-average shares used in computation of earnings per \nshare:\nBasic  10,501  10,674  10,447  10,638 \nD"
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "-average shares used in computation of earnings per \nshare:\nBasic  10,501  10,674  10,447  10,638 \nDiluted  10,735  10,845  10,705  10,815 AMAZON.COM, INC.\nConsolidated Statements of Comprehensive Income\n(in millions)\n(unaudited)\n  \nThree Months Ended\nSeptember 30,\nNine Months Ended\nSeptember 30,\n 2024 2025 2024 2025\nNet income $ 15,328 $ 21,187 $ 39,244 $ 56,478 \nOther comprehensive income (loss)"
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "024 2025 2024 2025\nNet income $ 15,328 $ 21,187 $ 39,244 $ 56,478 \nOther comprehensive income (loss):\nForeign currency translation adjustments, net of tax of \n$(45), $27, $43, and $(181)  1,911  (690)  178  4,159 \nAvailable-for-sale debt securities:\nChange in net unrealized gains (losses), net of tax of \n$(55), $(3,797), $(282), and $(3,820)  167  12,397  944  12,474 \nLess: reclassification adjust"
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "x of \n$(55), $(3,797), $(282), and $(3,820)  167  12,397  944  12,474 \nLess: reclassification adjustment for losses (gains) \nincluded in “Other income (expense), net,” net of tax \nof $0, $512, $(1), and $1,326  —  (1,795)  4  (4,266) \nNet change  167  10,602  948  8,208 \nOther, net of tax of $3, $0, $1, and $0  (3)  1  (4)  — \nTotal other comprehensive income (loss)  2,075  9,913  1,122  12,367 \nC"
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "$1, and $0  (3)  1  (4)  — \nTotal other comprehensive income (loss)  2,075  9,913  1,122  12,367 \nComprehensive income $ 17,403 $ 31,100 $ 40,366 $ 68,845 AMAZON.COM, INC.\nSegment Information\n(in millions)\n(unaudited) \n  \nThree Months Ended\nSeptember 30,\nNine Months Ended\nSeptember 30,\n2024 2025 2024 2025\nNorth America\nNet sales $ 95,537 $ 106,267 $ 271,911 $ 299,222 \nOperating expenses  89,874"
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "24 2025\nNorth America\nNet sales $ 95,537 $ 106,267 $ 271,911 $ 299,222 \nOperating expenses  89,874  101,478  256,200  281,075 \nOperating income $ 5,663 $ 4,789 $ 15,711 $ 18,147 \nInternational\nNet sales $ 35,888 $ 40,896 $ 99,486 $ 111,170 \nOperating expenses  34,587  39,697  97,009  107,460 \nOperating income $ 1,301 $ 1,199 $ 2,477 $ 3,710 \nAWS\nNet sales $ 27,452 $ 33,006 $ 78,770 $ 93,146 \nOpera"
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "ing income $ 1,301 $ 1,199 $ 2,477 $ 3,710 \nAWS\nNet sales $ 27,452 $ 33,006 $ 78,770 $ 93,146 \nOperating expenses  17,005  21,572  49,568  60,005 \nOperating income $ 10,447 $ 11,434 $ 29,202 $ 33,141 \nConsolidated\nNet sales $ 158,877 $ 180,169 $ 450,167 $ 503,538 \nOperating expenses  141,466  162,747  402,777  448,540 \nOperating income  17,411  17,422  47,390  54,998 \nTotal non-operating income (e"
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "7  402,777  448,540 \nOperating income  17,411  17,422  47,390  54,998 \nTotal non-operating income (expense)  626  10,748  (1,125)  15,708 \nProvision for income taxes  (2,706)  (6,910)  (6,940)  (14,141) \nEquity-method investment activity, net of tax  (3)  (73)  (81)  (87) \nNet income $ 15,328 $ 21,187 $ 39,244 $ 56,478 \nSegment Highlights:\nY/Y net sales growth:\nNorth America  9 %  11 %  10 %  10 %"
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "87 $ 39,244 $ 56,478 \nSegment Highlights:\nY/Y net sales growth:\nNorth America  9 %  11 %  10 %  10 %\nInternational  12  14  9  12 \nAWS  19  20  18  18 \nConsolidated  11  13  11  12 \nNet sales mix:\nNorth America  60 %  59 %  60 %  59 %\nInternational  23  23  22  22 \nAWS  17  18  18  19 \nConsolidated  100 %  100 %  100 %  100 %AMAZON.COM, INC.\nConsolidated Balance Sheets\n(in millions, except per sha"
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "100 %  100 %  100 %  100 %AMAZON.COM, INC.\nConsolidated Balance Sheets\n(in millions, except per share data)\n (unaudited)\nDecember 31, 2024 September 30, 2025\nASSETS\nCurrent assets:\nCash and cash equivalents $ 78,779 $ 66,922 \nMarketable securities  22,423  27,275 \nInventories  34,214  41,494 \nAccounts receivable, net and other  55,451  61,175 \nTotal current assets  190,867  196,866 \nProperty and"
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "nts receivable, net and other  55,451  61,175 \nTotal current assets  190,867  196,866 \nProperty and equipment, net  252,665  324,435 \nOperating leases  76,141  83,456 \nGoodwill  23,074  23,260 \nOther assets  82,147  99,904 \nTotal assets $ 624,894 $ 727,921 \nLIABILITIES AND STOCKHOLDERS’ EQUITY\nCurrent liabilities:\nAccounts payable $ 94,363 $ 106,032 \nAccrued expenses and other  66,965  68,051 \nUne"
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "nt liabilities:\nAccounts payable $ 94,363 $ 106,032 \nAccrued expenses and other  66,965  68,051 \nUnearned revenue  18,103  21,113 \nTotal current liabilities  179,431  195,196 \nLong-term lease liabilities  78,277  84,677 \nLong-term debt  52,623  50,742 \nOther long-term liabilities  28,593  27,675 \nCommitments and contingencies\nStockholders’ equity:\nPreferred stock ($0.01 par value; 500 shares autho"
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "mmitments and contingencies\nStockholders’ equity:\nPreferred stock ($0.01 par value; 500 shares authorized; no shares issued or \noutstanding)  —  — \nCommon stock ($0.01 par value; 100,000 shares authorized; 11,108 and 11,202 \nshares issued; 10,593 and 10,687 shares outstanding)  111  112 \nTreasury stock, at cost  (7,837)  (7,837) \nAdditional paid-in capital  120,864  135,679 \nAccumulated other comp"
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "ock, at cost  (7,837)  (7,837) \nAdditional paid-in capital  120,864  135,679 \nAccumulated other comprehensive income (loss)  (34)  12,333 \nRetained earnings  172,866  229,344 \nTotal stockholders’ equity  285,970  369,631 \nTotal liabilities and stockholders’ equity $ 624,894 $ 727,921 AMAZON.COM, INC.\nSupplemental Financial Information and Business Metrics\n(in millions, except per share data)\n(unau"
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": ".\nSupplemental Financial Information and Business Metrics\n(in millions, except per share data)\n(unaudited)\nQ2 2024 Q3 2024 Q4 2024 Q1 2025 Q2 2025 Q3 2025\nY/Y %\nChange\nCash Flows and Shares\nOperating cash flow -- trailing twelve months (TTM) $ 107,952 $ 112,706 $ 115,877 $ 113,903 $ 121,137 $ 130,691  16 %\nOperating cash flow -- TTM Y/Y growth  75 %  57 %  36 %  15 %  12 %  16 % N/A\nPurchases of p"
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "1  16 %\nOperating cash flow -- TTM Y/Y growth  75 %  57 %  36 %  15 %  12 %  16 % N/A\nPurchases of property and equipment, net of proceeds from sales and \nincentives -- TTM $ 54,979 $ 64,959 $ 77,658 $ 87,978 $ 102,953 $ 115,903  78 %\nFree cash flow -- TTM (1) $ 52,973 $ 47,747 $ 38,219 $ 25,925 $ 18,184 $ 14,788  (69) %\nCommon shares and stock-based awards outstanding  10,871  10,872  10,876  10,"
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "8,184 $ 14,788  (69) %\nCommon shares and stock-based awards outstanding  10,871  10,872  10,876  10,876  10,952  10,955  1 %\nCommon shares outstanding  10,490  10,511  10,593  10,613  10,660  10,687  2 %\nStock-based awards outstanding  381  361  283  263  292  268  (26) %\nStock-based awards outstanding -- % of common shares outstanding  3.6 %  3.4 %  2.7 %  2.5 %  2.7 %  2.5 % N/A\nResults of Opera"
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "ing -- % of common shares outstanding  3.6 %  3.4 %  2.7 %  2.5 %  2.7 %  2.5 % N/A\nResults of Operations\nWorldwide (WW) net sales $ 147,977 $ 158,877 $ 187,792 $ 155,667 $ 167,702 $ 180,169  13 %\nWW net sales -- Y/Y growth, excluding F/X  11 %  11 %  11 %  10 %  12 %  12 % N/A\nWW net sales -- TTM $ 604,334 $ 620,128 $ 637,959 $ 650,313 $ 670,038 $ 691,330  11 %\nWW net sales -- TTM Y/Y growth, exc"
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "604,334 $ 620,128 $ 637,959 $ 650,313 $ 670,038 $ 691,330  11 %\nWW net sales -- TTM Y/Y growth, excluding F/X  12 %  12 %  11 %  11 %  11 %  11 % N/A\nOperating income $ 14,672 $ 17,411 $ 21,203 $ 18,405 $ 19,171 $ 17,422  — %\nF/X impact -- favorable $ 29 $ 16 $ 14 $ 53 $ 153 $ 129 N/A\nOperating income -- Y/Y growth (decline), excluding F/X  91 %  55 %  60 %  20 %  30 %  (1) % N/A\nOperating margin"
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "ome -- Y/Y growth (decline), excluding F/X  91 %  55 %  60 %  20 %  30 %  (1) % N/A\nOperating margin -- % of WW net sales  9.9 %  11.0 %  11.3 %  11.8 %  11.4 %  9.7 % N/A\nOperating income -- TTM $ 54,376 $ 60,599 $ 68,593 $ 71,691 $ 76,190 $ 76,201  26 %\nOperating income -- TTM Y/Y growth, excluding F/X  205 %  129 %  86 %  51 %  40 %  25 % N/A\nOperating margin -- TTM % of WW net sales  9.0 %  9."
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "g F/X  205 %  129 %  86 %  51 %  40 %  25 % N/A\nOperating margin -- TTM % of WW net sales  9.0 %  9.8 %  10.8 %  11.0 %  11.4 %  11.0 % N/A\nNet income $ 13,485 $ 15,328 $ 20,004 $ 17,127 $ 18,164 $ 21,187  38 %\nNet income per diluted share $ 1.26 $ 1.43 $ 1.86 $ 1.59 $ 1.68 $ 1.95  37 %\nNet income -- TTM $ 44,419 $ 49,868 $ 59,248 $ 65,944 $ 70,623 $ 76,482  53 %\nNet income per diluted share -- TT"
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "- TTM $ 44,419 $ 49,868 $ 59,248 $ 65,944 $ 70,623 $ 76,482  53 %\nNet income per diluted share -- TTM $ 4.18 $ 4.67 $ 5.53 $ 6.13 $ 6.55 $ 7.08  52 %\n______________________________\n(1) Free cash flow is cash flow from operations reduced by “Purchases of property and equipment, net of proceeds from sales and incentives.” AMAZON.COM, INC.\nSupplemental Financial Information and Business Metrics\n(in m"
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "ales and incentives.” AMAZON.COM, INC.\nSupplemental Financial Information and Business Metrics\n(in millions)\n(unaudited)\nQ2 2024 Q3 2024 Q4 2024 Q1 2025 Q2 2025 Q3 2025\nY/Y %\nChange\nSegments\nNorth America Segment:\n  Net sales $ 90,033 $ 95,537 $ 115,586 $ 92,887 $ 100,068 $ 106,267  11 %\n  Net sales -- Y/Y growth, excluding F/X  9 %  9 %  10 %  8 %  11 %  11 % N/A\n  Net sales -- TTM $ 369,775 $ 37"
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "-- Y/Y growth, excluding F/X  9 %  9 %  10 %  8 %  11 %  11 % N/A\n  Net sales -- TTM $ 369,775 $ 377,425 $ 387,497 $ 394,043 $ 404,078 $ 414,808  10 %\n  Operating income $ 5,065 $ 5,663 $ 9,256 $ 5,841 $ 7,517 $ 4,789  (15) %\n  F/X impact -- favorable (unfavorable) $ 8 $ (28) $ (49) $ (32) $ (46) $ (53) N/A\n  Operating income -- Y/Y growth (decline), excluding F/X  58 %  32 %  44 %  18 %  49 %  ("
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "(53) N/A\n  Operating income -- Y/Y growth (decline), excluding F/X  58 %  32 %  44 %  18 %  49 %  (14) % N/A\n  Operating margin -- % of North America net sales  5.6 %  5.9 %  8.0 %  6.3 %  7.5 %  4.5 % N/A\n  Operating income -- TTM $ 20,816 $ 22,172 $ 24,967 $ 25,825 $ 28,277 $ 27,403  24 %\n  Operating margin -- TTM % of North America net sales  5.6 %  5.9 %  6.4 %  6.6 %  7.0 %  6.6 % N/A\nIntern"
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "ting margin -- TTM % of North America net sales  5.6 %  5.9 %  6.4 %  6.6 %  7.0 %  6.6 % N/A\nInternational Segment:\n  Net sales $ 31,663 $ 35,888 $ 43,420 $ 33,513 $ 36,761 $ 40,896  14 %\n  Net sales -- Y/Y growth, excluding F/X  10 %  12 %  9 %  8 %  11 %  10 % N/A\n  Net sales -- TTM $ 135,978 $ 139,729 $ 142,906 $ 144,484 $ 149,582 $ 154,590  11 %\n  Operating income $ 273 $ 1,301 $ 1,315 $ 1,01"
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "39,729 $ 142,906 $ 144,484 $ 149,582 $ 154,590  11 %\n  Operating income $ 273 $ 1,301 $ 1,315 $ 1,017 $ 1,494 $ 1,199  (8) %\n  F/X impact -- favorable (unfavorable) $ (94) $ 43 $ 6 $ (56) $ 338 $ 302 N/A\n  Operating income -- Y/Y growth (decline), excluding F/X N/A N/A N/A  19 %  324 %  (31) % N/A\n  Operating margin -- % of International net sales  0.9 %  3.6 %  3.0 %  3.0 %  4.1 %  2.9 % N/A\n  Op"
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "Operating margin -- % of International net sales  0.9 %  3.6 %  3.0 %  3.0 %  4.1 %  2.9 % N/A\n  Operating income -- TTM $ 662 $ 2,058 $ 3,792 $ 3,906 $ 5,127 $ 5,025  144 %\n  Operating margin -- TTM % of International net sales  0.5 %  1.5 %  2.7 %  2.7 %  3.4 %  3.2 % N/A\nAWS Segment:\n  Net sales $ 26,281 $ 27,452 $ 28,786 $ 29,267 $ 30,873 $ 33,006  20 %\n  Net sales -- Y/Y growth, excluding F/"
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "$ 26,281 $ 27,452 $ 28,786 $ 29,267 $ 30,873 $ 33,006  20 %\n  Net sales -- Y/Y growth, excluding F/X  19 %  19 %  19 %  17 %  17 %  20 % N/A\n  Net sales -- TTM $ 98,581 $ 102,974 $ 107,556 $ 111,786 $ 116,378 $ 121,932  18 %\n  Operating income $ 9,334 $ 10,447 $ 10,632 $ 11,547 $ 10,160 $ 11,434  9 %\n  F/X impact -- favorable (unfavorable) $ 115 $ 1 $ 57 $ 141 $ (139) $ (120) N/A\n  Operating inco"
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "%\n  F/X impact -- favorable (unfavorable) $ 115 $ 1 $ 57 $ 141 $ (139) $ (120) N/A\n  Operating income -- Y/Y growth, excluding F/X  72 %  50 %  48 %  21 %  10 %  11 % N/A\n  Operating margin -- % of AWS net sales  35.5 %  38.1 %  36.9 %  39.5 %  32.9 %  34.6 % N/A\n  Operating income -- TTM $ 32,898 $ 36,369 $ 39,834 $ 41,960 $ 42,786 $ 43,773  20 %\n  Operating margin -- TTM % of AWS net sales  33."
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "$ 36,369 $ 39,834 $ 41,960 $ 42,786 $ 43,773  20 %\n  Operating margin -- TTM % of AWS net sales  33.4 %  35.3 %  37.0 %  37.5 %  36.8 %  35.9 % N/AAMAZON.COM, INC.\nSupplemental Financial Information and Business Metrics\n(in millions, except employee data)\n(unaudited)\nQ2 2024 Q3 2024 Q4 2024 Q1 2025 Q2 2025 Q3 2025\nY/Y %\nChange\nNet Sales\nOnline stores (1) $ 55,392 $ 61,411 $ 75,556 $ 57,407 $ 61,48"
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "Q2 2025 Q3 2025\nY/Y %\nChange\nNet Sales\nOnline stores (1) $ 55,392 $ 61,411 $ 75,556 $ 57,407 $ 61,485 $ 67,407  10 %\nOnline stores -- Y/Y growth, excluding F/X  6 %  8 %  8 %  6 %  10 %  8 % N/A\nPhysical stores (2) $ 5,206 $ 5,228 $ 5,579 $ 5,533 $ 5,595 $ 5,578  7 %\nPhysical stores -- Y/Y growth, excluding F/X  4 %  5 %  8 %  6 %  7 %  7 % N/A\nThird-party seller services (3) $ 36,201 $ 37,864 $ 4"
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "xcluding F/X  4 %  5 %  8 %  6 %  7 %  7 % N/A\nThird-party seller services (3) $ 36,201 $ 37,864 $ 47,485 $ 36,512 $ 40,348 $ 42,486  12 %\nThird-party seller services -- Y/Y growth, excluding F/X  13 %  10 %  9 %  7 %  10 %  11 % N/A\nAdvertising services (4) $ 12,771 $ 14,331 $ 17,288 $ 13,921 $ 15,694 $ 17,703  24 %\nAdvertising services -- Y/Y growth, excluding F/X  20 %  19 %  18 %  19 %  22 %"
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "694 $ 17,703  24 %\nAdvertising services -- Y/Y growth, excluding F/X  20 %  19 %  18 %  19 %  22 %  22 % N/A\nSubscription services (5) $ 10,866 $ 11,278 $ 11,508 $ 11,715 $ 12,208 $ 12,574  11 %\nSubscription services -- Y/Y growth, excluding F/X  11 %  11 %  10 %  11 %  11 %  10 % N/A\nAWS $ 26,281 $ 27,452 $ 28,786 $ 29,267 $ 30,873 $ 33,006  20 %\nAWS -- Y/Y growth, excluding F/X  19 %  19 %  19 %"
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "27,452 $ 28,786 $ 29,267 $ 30,873 $ 33,006  20 %\nAWS -- Y/Y growth, excluding F/X  19 %  19 %  19 %  17 %  17 %  20 % N/A\nOther (6) $ 1,260 $ 1,313 $ 1,590 $ 1,312 $ 1,499 $ 1,415  8 %\nOther -- Y/Y growth (decline), excluding F/X  (6) %  5 %  17 %  4 %  18 %  7 % N/A\nStock-based Compensation Expense\nCost of sales $ 266 $ 193 $ 205 $ 148 $ 250 $ 197  2 %\nFulfillment $ 944 $ 696 $ 697 $ 497 $ 880 $"
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "e\nCost of sales $ 266 $ 193 $ 205 $ 148 $ 250 $ 197  2 %\nFulfillment $ 944 $ 696 $ 697 $ 497 $ 880 $ 685  (2) %\nTechnology and infrastructure $ 3,670 $ 2,961 $ 2,747 $ 2,060 $ 3,655 $ 2,697  (9) %\nSales and marketing $ 1,224 $ 1,012 $ 916 $ 653 $ 1,207 $ 832  (18) %\nGeneral and administrative $ 618 $ 471 $ 430 $ 331 $ 542 $ 436  (7) %\nTotal stock-based compensation expense $ 6,722 $ 5,333 $ 4,995"
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "$ 471 $ 430 $ 331 $ 542 $ 436  (7) %\nTotal stock-based compensation expense $ 6,722 $ 5,333 $ 4,995 $ 3,689 $ 6,534 $ 4,847  (9) %\nOther\nWW shipping costs $ 21,965 $ 23,501 $ 28,549 $ 22,495 $ 23,370 $ 25,384  8 %\nWW shipping costs -- Y/Y growth  8 %  8 %  4 %  3 %  6 %  8 % N/A\nWW paid units -- Y/Y growth (7)  11 %  12 %  11 %  8 %  12 %  11 % N/A\nWW seller unit mix -- % of WW paid units (7)  61"
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "growth (7)  11 %  12 %  11 %  8 %  12 %  11 % N/A\nWW seller unit mix -- % of WW paid units (7)  61 %  60 %  62 %  61 %  62 %  62 % N/A\nEmployees (full-time and part-time; excludes contractors & temporary personnel)  1,532,000  1,551,000  1,556,000  1,560,000  1,546,000  1,578,000  2 %\nEmployees (full-time and part-time; excludes contractors & temporary personnel) -- Y/Y \ngrowth  5 %  3 %  2 %  3"
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "ll-time and part-time; excludes contractors & temporary personnel) -- Y/Y \ngrowth  5 %  3 %  2 %  3 %  1 %  2 % N/A\n________________________\n(1) Includes product sales and digital media content where we record revenue gross. We leverage our retail infrastructure to offer a wide selection of consumable and durable \ngoods that includes media products available in both a physical and digital format,"
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "le and durable \ngoods that includes media products available in both a physical and digital format, such as books, videos, games, music, and software. These product sales include digital \nproducts sold on a transactional basis. Digital media content subscriptions that provide unlimited viewing or usage rights are included in “Subscription services.” \n(2) Includes product sales where our customers"
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "age rights are included in “Subscription services.” \n(2) Includes product sales where our customers physically select items in a store. Sales to customers who order goods online for delivery or pickup at our physical stores are \nincluded in “Online stores.” \n(3) Includes commissions and any related fulfillment and shipping fees, and other third-party seller services. \n(4) Includes sales of adverti"
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "fulfillment and shipping fees, and other third-party seller services. \n(4) Includes sales of advertising services to sellers, vendors, publishers, authors, and others, through programs such as sponsored ads, display, and video advertising.\n(5) Includes annual and monthly fees associated with Amazon Prime memberships, as well as digital video, audiobook, digital music, e-book, and other non-AWS sub"
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "Prime memberships, as well as digital video, audiobook, digital music, e-book, and other non-AWS subscription \nservices. \n(6) Includes sales related to various other offerings (such as shipping services, healthcare services, and certain licensing and distribution of video content) and our co-branded \ncredit card agreements.\n(7) Excludes the impact of Whole Foods Market.Amazon.com, Inc.\nCertain Def"
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "credit card agreements.\n(7) Excludes the impact of Whole Foods Market.Amazon.com, Inc.\nCertain Definitions\nCustomer Accounts\n• References to customers mean customer accounts established when a customer places an order through one of our \nstores. Customer accounts exclude certain customers, including customers associated with certain of our acquisitions, \nAmazon Payments customers, AWS customers,"
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "ng customers associated with certain of our acquisitions, \nAmazon Payments customers, AWS customers, and the customers of select companies with whom we have a \ntechnology alliance or marketing and promotional relationship. Customers are considered active when they have \nplaced an order during the preceding twelve-month period.\nSeller Accounts\n• References to sellers means seller accounts, which ar"
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "eceding twelve-month period.\nSeller Accounts\n• References to sellers means seller accounts, which are established when a seller receives an order from a customer \naccount. Sellers are considered active when they have received an order from a customer during the preceding twelve-\nmonth period.\nAWS Customers\n• References to AWS customers mean unique AWS customer accounts, which are unique customer a"
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "stomers\n• References to AWS customers mean unique AWS customer accounts, which are unique customer account IDs that are \neligible to use AWS services. This includes AWS accounts in the AWS free tier. Multiple users accessing AWS \nservices via one account ID are counted as a single account. Customers are considered active when they have had \nAWS usage activity during the preceding one-month period."
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "are considered active when they have had \nAWS usage activity during the preceding one-month period.\nUnits\n• References to units mean physical and digital units sold (net of returns and cancellations) by us and sellers in our \nstores as well as Amazon-owned items sold in other stores. Units sold are paid units and do not include units \nassociated with AWS, certain acquisitions, certain subscriptio"
+  },
+  {
+    "source": "Amazon_q3_report.pdf",
+    "text": "paid units and do not include units \nassociated with AWS, certain acquisitions, certain subscriptions, rental businesses, or advertising businesses, or \nAmazon gift cards.\nContacts:\nAmazon Investor Relations  Amazon Public Relations\namazon-ir@amazon.com  amazon-pr@amazon.com\namazon.com/ir  amazon.com/pr"
+  }
+]
